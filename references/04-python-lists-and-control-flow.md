@@ -1,4 +1,4 @@
-# Practical 4 Cheat Sheet: Python Lists & Control Flow
+# Lab Guide 04: Python Lists and Control Flow
 
 This reference guide covers the core Python list operations, indexing rules, looping mechanisms, and control flow keywords used in Practical 4. Use this document to revise key concepts and syntax.
 
